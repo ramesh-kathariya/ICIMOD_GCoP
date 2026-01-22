@@ -24,4 +24,4 @@ You do not need to be a GIS specialist. You should have at least a basic working
 - understanding CRS/scale/uncertainty at a basic level
 - awareness of privacy and sensitive-location risks
 
-If you lack this baseline, join as an Observer/Learner and commit to learning through GeoCoP resources and mentoring.
+If you lack this baseline, join as an Observer/Learner and commit to learning through GCoP resources and mentoring.

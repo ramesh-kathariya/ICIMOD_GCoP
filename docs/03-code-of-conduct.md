@@ -41,7 +41,7 @@ This Code of Conduct applies to all GeoCoP spaces: meetings, chat channels, shar
 
 ## 4) Promotions, conflicts of interest, and transparency
 
-### 4.1 No marketing behaviour (**[Relevance]https://www.icimod.org/strategy-2030/** · **[Integrity]https://www.icimod.org/strategy-2030/**)
+### 4.1 No marketing behaviour (**[Relevance](https://www.icimod.org/strategy-2030/)** · **[Integrity](https://www.icimod.org/strategy-2030/)**)
 - GeoCoP is not a marketing forum. Share tools/events only when relevant to GeoCoP work and without spamming.
 
 ### 4.2 Conflicts of interest (**[Integrity]https://www.icimod.org/strategy-2030/**)

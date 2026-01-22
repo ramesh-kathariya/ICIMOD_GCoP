@@ -2,7 +2,7 @@
 # GeoCoP Overview
 
 ## Purpose
-The ICIMOD Geospatial Community of Practice (GeoCoP) exists to improve the quality, consistency, and usefulness of geospatial work across ICIMOD and partner networks.
+The ICIMOD Geospatial Community of Practice (GCoP) exists to improve the quality, consistency, and usefulness of geospatial work across ICIMOD and its networks.
 
 ## What we do
 - Share methods, workflows, code, and lessons learned. 
@@ -11,4 +11,4 @@ The ICIMOD Geospatial Community of Practice (GeoCoP) exists to improve the quali
 - Promote safe and inclusive practice in geospatial work.
 
 ## Who it is for
-GeoCoP is cross-functional. It includes people who create, manage, analyse, or use geospatial data and products.
+GCoP is cross-functional. It includes people who create, manage, analyse, or use geospatial data and products.

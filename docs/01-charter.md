@@ -24,4 +24,4 @@ GeoCoP is not an operational helpdesk. It complements operational GIS delivery b
 - Decisions must be documented in meeting notes.
 
 ## Review cycle
-This charter should be reviewed once a year and updated when the GeoCoP matures. [5](https://community.esri.com/t5/education-blog/stay-updated-list-of-may-2025-technical-highlights/ba-p/1620292)
+This charter should be reviewed once a year (first week of July) and updated when the GeoCoP matures.

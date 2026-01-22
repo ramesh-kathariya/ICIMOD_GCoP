@@ -12,7 +12,7 @@ GeoCoP is a practical forum for people who use geospatial data, tools, and metho
 - [Membership criteria](docs/02-membership-criteria.md)
 - [Code of conduct](docs/03-code-of-conduct.md)
 - [Data ethics and “do no harm”](docs/04-data-ethics-and-do-no-harm.md)
-- [Reporting and enforcement](docs/06-reporting-and-enforcement.md)
+
 
 
 ## Alignment

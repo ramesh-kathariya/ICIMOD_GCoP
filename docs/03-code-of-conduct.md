@@ -1,5 +1,5 @@
 
-# Code of Conduct (GeoCoP)
+# Code of Conduct (GCoP)
 
 **ICIMOD values anchor this Code of Conduct:**
 - [Integrity](https://www.icimod.org/strategy-2030/)
@@ -12,7 +12,7 @@
 ---
 
 ## 1) Where this applies
-This Code of Conduct applies to all GeoCoP spaces: meetings, chat channels, shared documents, shared drives, and direct messages linked to GeoCoP work.
+This Code of Conduct applies to all GCoP spaces: meetings, chat channels, shared documents, shared drives, and direct messages linked to GCoP work.
 
 ---
 
@@ -34,7 +34,7 @@ This Code of Conduct applies to all GeoCoP spaces: meetings, chat channels, shar
 ## 3) Neutrality and professional boundaries
 
 ### 3.1 Political impartiality (**[Neutrality](https://www.icimod.org/strategy-2030/)**)
-- Keep GeoCoP discussions technically grounded and politically impartial, in line with ICIMOD’s neutral intergovernmental role.  
+- Keep GCoP discussions technically grounded and politically impartial, in line with ICIMOD’s neutral intergovernmental role.  
 - If policy implications arise, discuss evidence, methods, uncertainty, and trade-offs—without partisan positioning.
 
 ---
@@ -42,7 +42,7 @@ This Code of Conduct applies to all GeoCoP spaces: meetings, chat channels, shar
 ## 4) Promotions, conflicts of interest, and transparency
 
 ### 4.1 No marketing behaviour (**[Relevance](https://www.icimod.org/strategy-2030/)** · **[Integrity](https://www.icimod.org/strategy-2030/)**)
-- GeoCoP is not a marketing forum. Share tools/events only when relevant to GeoCoP work and without spamming.
+- GCoP is not a marketing forum. Share tools/events only when relevant to GCoP work and without spamming.
 
 ### 4.2 Conflicts of interest (**[Integrity](https://www.icimod.org/strategy-2030/)**)
 - Disclose conflicts of interest when recommending vendors, platforms, services, or partnerships (including if you benefit financially or professionally). 
@@ -58,7 +58,7 @@ This Code of Conduct applies to all GeoCoP spaces: meetings, chat channels, shar
 
 ### 5.2 Protect sensitive information (**[Integrity](https://www.icimod.org/strategy-2030/)**)
 - Respect data-sharing agreements, licensing, and attribution. 
-- Do not share restricted datasets, sensitive locations, or partner-confidential material in open GeoCoP spaces.
+- Do not share restricted datasets, sensitive locations, or partner-confidential material in open GCoP spaces.
 ---
 
 ## 6) Quality and ambition in geospatial work
@@ -72,10 +72,10 @@ This Code of Conduct applies to all GeoCoP spaces: meetings, chat channels, shar
 ---
 
 ## 7) Reporting and enforcement
-If you experience or witness a violation of this Code of Conduct, report it promptly through the GeoCoP reporting routes. 
+If you experience or witness a violation of this Code of Conduct, report it promptly through the GCoP reporting routes. 
 For serious concerns (harassment/safeguarding/fraud/data misuse), use ICIMOD’s institutional reporting and policy routes.
 
 ---
 
 ## 8) Acceptance
-By joining GeoCoP channels, meetings, or shared workspaces, you confirm you have read and will follow this Code of Conduct and ICIMOD’s values-based expectations.
+By joining GCoP channels, meetings, or shared workspaces, you confirm you have read and will follow this Code of Conduct and ICIMOD’s values-based expectations.

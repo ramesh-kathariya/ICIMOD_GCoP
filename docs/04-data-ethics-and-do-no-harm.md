@@ -23,4 +23,4 @@ Before publishing or sharing widely:
 ## Openness (should)
 Share methods and reusable resources where possible, while respecting restrictions and agreements.
 
-###Please adhere to ICIMOD's [data sharing policy](https://www.icimod.org/wp-content/uploads/2021/02/2013_ICIMOD_DataSharingPolicy.pdf)
+### *Please adhere to ICIMOD's [data sharing policy](https://www.icimod.org/wp-content/uploads/2021/02/2013_ICIMOD_DataSharingPolicy.pdf)*.

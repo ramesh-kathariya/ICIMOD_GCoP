@@ -18,7 +18,7 @@ This Code of Conduct applies to all GeoCoP spaces: meetings, chat channels, shar
 
 ## 2) Expected behaviour (how we work together)
 
-### 2.1 Respectful and constructive engagement (**[Integrity](https://www.icimod.org/strategy-2030/)** · **[Inclusiveness](https://www.icimod.org/strategy-2030/)**)
+### 2.1 Respectful and constructive engagement (**[Integrity](https://www.icimod.org/strategy-2030/))** · **([Inclusiveness](https://www.icimod.org/strategy-2030/)**)
 - Treat people with respect. Critique ideas, not individuals.
 - Make room for quieter voices and early-career colleagues. Do not dominate the conversation.
 - Give credit for data, code, figures, and ideas. Acknowledge sources.  

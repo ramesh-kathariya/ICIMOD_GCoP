@@ -1,6 +1,6 @@
 
 # Membership Criteria
-GeoCoP is built to increase capability across the organisation, not only among specialists.
+GCoP is built to increase capability across the organisation, not only among specialists.
 
 
 ## Who can join
@@ -15,7 +15,7 @@ GeoCoP is built to increase capability across the organisation, not only among s
 - Follow the Code of Conduct.
 - Respect ICIMOD’s neutrality and the diverse contexts of member countries.
 - Protect sensitive information and respect data-sharing agreements.
-- Use GeoCoP spaces for learning and collaboration, not marketing.
+- Use GCoP spaces for learning and collaboration, not marketing.
 
 ## Minimum knowledge (baseline)
 You do not need to be a GIS specialist. You should have at least a basic working understanding relevant to your role, such as:

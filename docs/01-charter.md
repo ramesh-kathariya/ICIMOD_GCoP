@@ -11,7 +11,7 @@ GeoCoP focuses on:
 
 GeoCoP is not an operational helpdesk. It complements operational GIS delivery by sharing practice and aligning across teams. [
 
-## Core principles (ICIMOD alignment)
+## Core principles aligns with ICIMOD's core values
 - **Integrity:** be honest about limitations and uncertainty; apply “do no harm”.
 - **Inclusiveness:** make space for diverse voices; respect gender and diversity. 
 - **Neutrality:** stay technically grounded and politically impartial.

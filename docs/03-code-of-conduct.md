@@ -1,7 +1,7 @@
 
 # Code of Conduct (GeoCoP)
 
-**ICIMOD values anchor this Code of Conduct:**  
+**ICIMOD values anchor this Code of Conduct:**
 - [Integrity](https://www.icimod.org/strategy-2030/)
 - [Inclusiveness](https://www.icimod.org/strategy-2030/)
 - [Neutrality](https://www.icimod.org/strategy-2030/)

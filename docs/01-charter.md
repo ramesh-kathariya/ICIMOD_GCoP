@@ -1,15 +1,15 @@
 
-# GeoCoP Charter
+# GCoP Charter
 
 ## Scope
-GeoCoP focuses on:
+GCoP focuses on:
 - geospatial data management and quality
 - analysis and modelling practice
 - cartography and communication products
 - shared standards and reusable templates
 - skills development and mentoring
 
-GeoCoP is not an operational helpdesk. It complements operational GIS delivery by sharing practice and aligning across teams. [
+GCoP is not an operational helpdesk. It complements operational GIS delivery by sharing practice and aligning across teams. [
 
 ## Core principles aligns with ICIMOD's core values
 - **Integrity:** be honest about limitations and uncertainty; apply “do no harm”.

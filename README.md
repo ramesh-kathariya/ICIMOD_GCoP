@@ -4,7 +4,7 @@ The ICIMOD Geospatial Community of Practice (GeoCoP) is a practical forum where 
 This repository hosts the governance documents for the ICIMOD Geospatial Community of Practice (GeoCoP): charter, membership criteria, code of conduct, data ethics guidance, and working norms.
 
 ## What the GeoCoP is for
-GeoCoP is a practical forum for people who use geospatial data, tools, and methods to improve how ICIMOD and partners apply location intelligence.
+GCoP is a practical forum for people who use geospatial data, tools, and methods to improve how ICIMOD and partners apply location intelligence.
 
 ## Start here
 - [Overview](docs/00-overview.md)
